@@ -1,0 +1,12 @@
+
+
+function translate(str) {
+str=str()
+    var vowels = ['a','e','i','o','u'];
+if str.slice[0] = vowels {
+console.log(str.slice(0,i)+way);
+} else if str.slice[0]=!vowels && str.slice[1]=!vowels) { console.log str.slice(i(2,i)+i[0]+i[1]+ay)
+} else { console.log str.slice(i(1,i)+i[0]+ay)
+}
+
+translate ("apple")
